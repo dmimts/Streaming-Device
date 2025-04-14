@@ -1,3 +1,8 @@
-Der Code in Java soll ein simples Gerät zum Streamen von Audiodateien simulieren indem es Werte aus den Textdateien entnimmt und ein Interface erstellt.
-Der gesamte Code ist im SRC Ordner. Das Interface an sich ist im Pfad src/de/streamingservice/Player.java enthalten.
-Die Titel der Lieder und der Podcasts sind in den beiden csv Dateien im resources Ordner.
+Das Java-Projekt simuliert ein einfaches Gerät zum Streamen von Audiodateien. 
+Es greift dabei auf Werte zurück, die aus Textdateien im CSV-Format gelesen werden, und stellt diese über ein simples Interface dar. 
+
+Der gesamte Quellcode befindet sich im Verzeichnis "src", wobei die die Implementierung des Interface in der Datei "Player.java" im Pfad "src/de/streamingservice/" implementiert ist. 
+
+Die Informationen zu den  Liedern und Podcasts werden aus zwei CSV-Dateien im Ordner "resources" eingelesen. 
+
+Eine detaillierte Anleitung zur Nutzung befindet sich als Textdokument in der Main-Branch.
