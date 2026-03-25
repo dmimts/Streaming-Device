@@ -15,7 +15,7 @@ public enum Genre {
             case ROCK -> "Rock";
             case METAL -> "Metal";
             case K_POP -> "K-Pop";
-            default -> "no Genre available";
+            default -> "no Genre available and you are dumb";
         };
 
     }
