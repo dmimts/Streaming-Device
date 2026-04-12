@@ -1,9 +1,12 @@
 # 🎵 Streaming Device
 
+![Java](https://img.shields.io/badge/Java-17%2B-orange?logo=openjdk&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![Platform](https://img.shields.io/badge/GUI-Java%20Swing-green)
+
 > Ein Java-Swing-basierter Audio-Streaming-Simulator, der die Funktionalität eines einfachen Streaming-Geräts nachbildet.
 
-**Team 3** – Felix Bosl & Dominik Mátyás  
-_Letzte Änderung: 18.01.2024_
+**Team 3** – Felix Bosl & Dominik Mátyás
 
 ---
 
@@ -17,6 +20,8 @@ _Letzte Änderung: 18.01.2024_
 - [Installation & Ausführung](#-installation--ausführung)
 - [Bedienung](#-bedienung)
 - [Architektur](#-architektur)
+- [Weitere Dokumentation](#-weitere-dokumentation)
+- [Lizenz](#-lizenz)
 
 ---
 
@@ -46,6 +51,9 @@ Das Projekt simuliert ein einfaches Gerät zum Streamen von Audiodateien. Es gre
 
 ```
 Streaming-Device/
+├── .editorconfig
+├── .gitignore
+├── LICENSE
 ├── README.md
 ├── Streaming Device - Anleitung.pdf
 └── src/
@@ -274,3 +282,9 @@ Nach dem Login öffnet sich der Player mit folgenden Bedienelementen:
 ## 📄 Weitere Dokumentation
 
 Eine detaillierte Anleitung zur Nutzung befindet sich in der Datei [`Streaming Device - Anleitung.pdf`](Streaming%20Device%20-%20Anleitung.pdf).
+
+---
+
+## 📝 Lizenz
+
+Dieses Projekt ist unter der [MIT License](LICENSE) lizenziert.
